@@ -1,3 +1,4 @@
 models/
+!models/cldm_v21.yaml
 training/
 checkpoints/
